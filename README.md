@@ -1,6 +1,6 @@
 # ChunStream
 ## ChunRespuesta
-```
+```js
 const responses = [
 'Si - Defenitivamente!', 
 ' SI! ', 
